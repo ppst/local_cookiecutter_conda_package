@@ -6,7 +6,7 @@ the beginning of a project it is often desirable to carry out development and te
 without having to upload package sources to public repositories.
 
 This Github project summarizes a few commands for local package building,
-installation, update and removal using [Conda][https://conda.io] and
+installation, update and removal using [Conda](https://conda.io) and
 [Cookiecutter](https://www.cookiecutter.io/). The covered steps are outlined in the figure and further
 described in the following text.
 
